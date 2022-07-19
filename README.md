@@ -28,11 +28,14 @@ Forest-related vocabularies have been published regularly over the last 120 year
   - Wildlife, Carbon, Scientific summaries, Abbreviations, Forest genetics, Forest health, Harmonization, IUFRO in-house terminology.
 - [FRA Terms and definitions (pdf)](https://www.fao.org/3/I8661EN/i8661en.pdf) Global Forest Resource Assessment 2020
 
+## Network
 Searching for possible collaborators.  e.g.
+
 Organizations
 - [IUFRO Secretariat](https://www.iufro.org/who-is-who/secretariat/)
 - [CPF Collaborative Partnerhip on Forests](https://www.fao.org/collaborative-partnership-on-forests/en)
+
 Persons
 - Gillian Petrokofsky [Homepage](https://www.oxsrev.org/gillianpetrokofsky) - [Linkedin](https://www.linkedin.com/in/gill-petrokofsky-5636b520/) - [Twitter](https://twitter.com/greenwoodtree)
 - Jarmo Saarikko - [ORCD ID](https://orcid.org/0000-0002-6801-6151) - [Twitter](https://twitter.com/jarmosaarikko) - [Linkedin](https://www.linkedin.com/in/jarmosaarikko/)
-- https://github.com/Silviculturalist
+
