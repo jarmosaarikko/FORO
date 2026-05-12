@@ -36,6 +36,6 @@ Organizations
 - [CPF Collaborative Partnerhip on Forests](https://www.fao.org/collaborative-partnership-on-forests/en)
 
 Persons
-- Gillian Petrokofsky [Homepage](https://www.oxsrev.org/gillianpetrokofsky) - [Linkedin](https://www.linkedin.com/in/gill-petrokofsky-5636b520/) - [Twitter](https://twitter.com/greenwoodtree)
-- Jarmo Saarikko - [ORCD ID](https://orcid.org/0000-0002-6801-6151) - [Twitter](https://twitter.com/jarmosaarikko) - [Linkedin](https://www.linkedin.com/in/jarmosaarikko/)
+- Gillian Petrokofsky [Homepage](https://www.oxsrev.org/gillianpetrokofsky) - [Linkedin](https://www.linkedin.com/in/gill-petrokofsky-5636b520/) - [Twitter](https://twitter.com/greenwoodtree) - [Google Scholar](https://scholar.google.fi/citations?user=UludcjoAAAAJ)
+- Jarmo Saarikko - [ORCD ID](https://orcid.org/0000-0002-6801-6151) - [Twitter](https://twitter.com/jarmosaarikko) - [Linkedin](https://www.linkedin.com/in/jarmosaarikko/) - [Google Scholar](https://scholar.google.fi/citations?user=_NfQPPQAAAAJ)
 
