@@ -20,12 +20,12 @@ Any suggestions are welcome.
 ## Data sources
 Forest-related vocabularies have been published regularly over the last 120 years. Only few are available online and most do not provide identifiers for the concepts so that they could be mapped. Some of the existing vocabularies online are e.g.
 - [Lexicon Forestale](http://hdl.handle.net/10138/27720) - multilingual, but a little outdated thesaurus in fi,sv,en,de,ru
-- [SilvaTerm](https://www.iufro.org/science/special/silvavoc/silvaterm/) - multilingual terminological database of forestry concepts 
-  - Search form: https://www.iufro.org/science/special/silvavoc/silvaterm/query-silvaterm-database/
+- [SilvaTerm](https://www.iufro.org/science/special/silvavoc/silvaterm/) **(link outdated!)**- multilingual terminological database of forestry concepts 
+  - Search form: https://www.iufro.org/science/special/silvavoc/silvaterm/query-silvaterm-database/ **(service deleted!)**
 - Global Forest Decimal Classification - glossary 
   - https://github.com/NatLibFi/Finto-data/tree/master/vocabularies/gfdc
-- [Vocabularies published by IUFRO under SilvaVoc](https://www.iufro.org/science/special/silvavoc/)
-  - Wildlife, Carbon, Scientific summaries, Abbreviations, Forest genetics, Forest health, Harmonization, IUFRO in-house terminology.
+- [IUFRO publications)](https://www.iufro.org/library?type=publication&elementSort=DESC&viewType=details) (link alive 2026-05)
+  - Includes vocabularies for Wildlife, Carbon, Scientific summaries, Abbreviations, Forest genetics, Forest health, Harmonization, IUFRO in-house terminology.
 - [FRA Terms and definitions (pdf)](https://www.fao.org/3/I8661EN/i8661en.pdf) Global Forest Resource Assessment 2020
 
 ## Network
