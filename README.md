@@ -13,14 +13,18 @@ To improve interoperability of data and information systems as well as concept a
 ## Organization
 This could be accomplished under the IUFRO unit [9.01.01 - Library, information networks and terminology](https://www.iufro.org/science/divisions/division-9/90000/90100/90101/)  currently lead by Dr. G. Petrokofsky
 
+Got to [FORO Wiki](https://github.com/jarmosaarikko/FORO/wiki)  to find out more about this project and ideas being suggested.
+
 ## Platform
 Editorial tool is still undecided.  Would like to have an multiuser online-skos/RDF-editor.
 Any suggestions are welcome. 
+- To work locally on a standolone copy of an ontology a newly published (2026-04) tool is available: the [SEMMweb Ontology Editor](https://github.com/semmtech/semmweb-ontology-editor/releases) which works on Windows. The installer is available on their Github repository. 
 
-## Data sources
+## Source data for the ontology
 Forest-related vocabularies have been published regularly over the last 120 years. Only few are available online and most do not provide identifiers for the concepts so that they could be mapped. Some of the existing vocabularies online are e.g.
 - [Lexicon Forestale](http://hdl.handle.net/10138/27720) - multilingual, but a little outdated thesaurus in fi,sv,en,de,ru
-- [SilvaTerm](https://www.iufro.org/science/special/silvavoc/silvaterm/) **(link outdated!)**- multilingual terminological database of forestry concepts 
+- [SilvaTerm](https://www.iufro.org/science/special/silvavoc/silvaterm/) **(IUFRO has deleted this service!)**- multilingual terminological database of forestry concepts
+  - Finnish company Kielkone provided a version of this at their MOT dictionary service - current status unknown (cited 2026-05)
   - Search form: https://www.iufro.org/science/special/silvavoc/silvaterm/query-silvaterm-database/ **(service deleted!)**
 - Global Forest Decimal Classification - glossary 
   - https://github.com/NatLibFi/Finto-data/tree/master/vocabularies/gfdc
