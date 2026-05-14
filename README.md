@@ -9,6 +9,7 @@ To improve interoperability of data and information systems as well as concept a
 - providing permanent identifiers for central forest(ry) concepts
 - find the corresponding terms in multiple languages, cultures and traditions
 - map the concepts to the other major terminological sources available online such as Wikidata, Agrovoc, Eurovoc, Gemet
+- See also: Saarikko, Jarmo & Prüller, Renate (2017) [The future of forest terminology : between tradition and innovation. Interconnecting Forests, Science and People](https://urn.fi/URN:NBN:fi-fe2017112455050), Presentation at the 125th IUFRO Anniversary Congress, Freiburg, 2017 
 
 ## Organization
 This could be accomplished under the IUFRO unit [9.01.01 - Library, information networks and terminology](https://www.iufro.org/science/divisions/division-9/90000/90100/90101/)  currently lead by Dr. G. Petrokofsky
@@ -23,9 +24,11 @@ Any suggestions are welcome.
 ## Source data for the ontology
 Forest-related vocabularies have been published regularly over the last 120 years. Only few are available online and most do not provide identifiers for the concepts so that they could be mapped. Some of the existing vocabularies online are e.g.
 - [Lexicon Forestale](http://hdl.handle.net/10138/27720) - multilingual, but a little outdated thesaurus in fi,sv,en,de,ru
-- [SilvaTerm](https://www.iufro.org/science/special/silvavoc/silvaterm/) **(IUFRO has deleted this service!)**- multilingual terminological database of forestry concepts
-  - Finnish company Kielkone provided a version of this at their MOT dictionary service - current status unknown (cited 2026-05)
-  - Search form: https://www.iufro.org/science/special/silvavoc/silvaterm/query-silvaterm-database/ **(service deleted!)**
+- [SilvaTerm](https://www.iufro.org/science/special/silvavoc/silvaterm/) **(IUFRO has deleted this service!)**
+  - This was a multilingual terminological database of forestry concepts and their definitions
+  - [Search form](https://www.iufro.org/science/special/silvavoc/silvaterm/query-silvaterm-database/) **(service deleted!)**
+  - A Finnish company [Kielkone](https://www.sanakirja.fi/legal/our-content) provided a version of this at their "MOT Dictionaries" service, but is is not available any more (as of 2026-05)
+  
 - Global Forest Decimal Classification - glossary 
   - https://github.com/NatLibFi/Finto-data/tree/master/vocabularies/gfdc
 - [IUFRO publications)](https://www.iufro.org/library?type=publication&elementSort=DESC&viewType=details) (link alive 2026-05)
