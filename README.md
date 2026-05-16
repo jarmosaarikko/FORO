@@ -27,10 +27,9 @@ Forest-related vocabularies have been published regularly over the last 120 year
 - [Lexicon Forestale](http://hdl.handle.net/10138/27720) - multilingual, but a little outdated thesaurus in fi,sv,en,de,ru
 - [SilvaTerm](https://web.archive.org/web/20230326124839/https://www.iufro.org/science/special/silvavoc/silvaterm/) (archived page). IUFRO has since then **deleted** this service in their latest updates in 2025. This was a multilingual terminological database of forestry concepts and their definitions - There was a [Search form](https://web.archive.org/web/20241107200231/https://www.iufro.org/science/special/silvavoc/silvaterm/query-silvaterm-database/) **(archived from 2024-11)**
   - A Finnish company [Kielikone](https://www.sanakirja.fi/legal/our-content) provided a version of this at their "MOT Dictionaries" service, but is is not available any more (as of 2026-05)
-  
-- Global Forest Decimal Classification - glossary 
-  - https://github.com/NatLibFi/Finto-data/tree/master/vocabularies/gfdc
-- [IUFRO publications)](https://www.iufro.org/library?type=publication&elementSort=DESC&viewType=details) (link alive 2026-05)
+  - We have the original data for this database for this project.
+- Global Forest Decimal Classification - glossary section (some 4000+ concepts, needs more work) - See the repo [GFDC](https://github.com/jarmosaarikko/GFDC)
+- [IUFRO publications](https://www.iufro.org/library?type=publication&elementSort=DESC&viewType=details) (checked 2026-05)
   - Includes vocabularies for Wildlife, Carbon, Scientific summaries, Abbreviations, Forest genetics, Forest health, Harmonization, IUFRO in-house terminology.
 - [FRA Terms and definitions (pdf)](https://www.fao.org/3/I8661EN/i8661en.pdf) Global Forest Resource Assessment 2020
 
