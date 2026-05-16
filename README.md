@@ -16,10 +16,11 @@ This could be accomplished under the IUFRO unit [9.01.01 - Library, information 
 
 Got to [FORO Wiki](https://github.com/jarmosaarikko/FORO/wiki)  to find out more about this project and ideas being suggested.
 
-## Platform
+## Tools and platform
 Editorial tool is still undecided.  Would like to have an multiuser online-skos/RDF-editor.
 Any suggestions are welcome. 
-- To work locally on a standolone copy of an ontology a newly published (2026-04) tool is available: the [SEMMweb Ontology Editor](https://github.com/semmtech/semmweb-ontology-editor/releases) which works on Windows. The installer is available on their Github repository. 
+- To work locally on a standolone copy of an ontology a newly published (2026-04) tool is available: the [SEMMweb Ontology Editor](https://github.com/semmtech/semmweb-ontology-editor/releases) which works on Windows. The installer is available on their Github repository.
+- See also the [Tabular Ontology Maker](https://jonathanvajda.github.io/tabular-ontology-maker/)
 
 ## Source data for the ontology
 Forest-related vocabularies have been published regularly over the last 120 years. Only few are available online and most do not provide identifiers for the concepts so that they could be mapped. Some of the existing vocabularies online are e.g.
